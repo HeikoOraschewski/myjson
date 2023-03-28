@@ -1,4 +1,8 @@
 {
+  "firstName": "Rack",
+    "lastName": "jackson",
+    "gender": "man",
+    "age": 24,
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
